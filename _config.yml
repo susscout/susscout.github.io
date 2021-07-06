@@ -1,6 +1,2 @@
-theme: jekyll-theme-slate
 title: SusScout
 Description: Welcome to SusScout
-$body-font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
-  Roboto, "Helvetica Neue", Arial, sans-serif !default;
-$grey-dk-100: #5c5962 !default;
