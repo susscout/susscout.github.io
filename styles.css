@@ -1,0 +1,22 @@
+
+    body {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 400;
+        color: #336D6A;
+      }
+      
+      .jumbotron {
+        background-color: transparent !important;
+      }
+      
+      h1 {
+        font-weight: 700
+      }
+      
+      .logo {
+        width: 70%;
+      }
+      
+      .banner {
+        width: 80%;
+      }
